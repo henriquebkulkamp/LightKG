@@ -1,4 +1,4 @@
-/saved/*
+/saved
 /venv
 .tool-versions
 preparar_dataset.py
@@ -7,6 +7,9 @@ Luxury_Beauty.json
 train_xgboost.py
 inference.py
 build_features.py
-/log/LightKG/*
-/log_tensorboard/*
+/log
+/log_tensorboard
 /processed_features
+/__pycache__
+requirements.txt
+requirements.in
