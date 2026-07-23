@@ -53,6 +53,8 @@ elif args.dataset == "book-crossing":
     config_file_list = ['./yaml/book-crossing_LightKG.yaml']
 elif args.dataset == "Amazon-book":
     config_file_list = ['./yaml/Amazon-book_LightKG.yaml']
+elif args.dataset == "Amazon-luxury-beauty":
+    config_file_list = ['./yaml/Amazon-luxury-beauty_LightKG.yaml']
 
 # Initialize configuration
 config = Config(model=LightKG, dataset=args.dataset, config_file_list=config_file_list, config_dict=config_dict)

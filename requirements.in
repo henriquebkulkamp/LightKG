@@ -1,0 +1,8 @@
+numpy<1.24.0
+torch==2.0.0
+recbole==1.1.1
+torch-scatter
+torch-sparse
+lightgbm
+ray[tune]
+pydantic

@@ -1,0 +1,12 @@
+/saved/*
+/venv
+.tool-versions
+preparar_dataset.py
+meta_Luxury_Beauty.json
+Luxury_Beauty.json
+train_xgboost.py
+inference.py
+build_features.py
+/log/LightKG/*
+/log_tensorboard/*
+/processed_features
