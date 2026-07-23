@@ -10,6 +10,6 @@ build_features.py
 /log
 /log_tensorboard
 /processed_features
-/__pycache__
+__pycache__
 requirements.txt
 requirements.in
